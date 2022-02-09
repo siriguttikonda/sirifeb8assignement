@@ -1,0 +1,5 @@
+km=int(input("enter kilometer"))
+cm=km*100000
+print("kilometer to centimeter conersion is:")
+enter kilometer :79
+kilometer to centi meter conversion is 7900000
